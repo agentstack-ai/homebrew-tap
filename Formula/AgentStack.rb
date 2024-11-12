@@ -1,10 +1,10 @@
-class AgentStack < Formula
+class Agentstack < Formula
   include Language::Python::Virtualenv
 
   desc ""
   homepage "https://github.com/AgentOps-AI/AgentStack"
   url "https://files.pythonhosted.org/packages/source/A/AgentStack/AgentStack-#{version}.tar.gz"
-  sha256 "7021e9d59694db815f8a2ca263d480184cb9662c73e3b53d20dccdf05daa8cbc"
+  sha256 "c0aa06625c19c9f1ebf0407d1aeb797a678d8b83dd727782002db6c4d59ce84f"
 
   depends_on "python@3.9"
 
