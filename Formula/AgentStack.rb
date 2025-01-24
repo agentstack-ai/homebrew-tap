@@ -3,8 +3,8 @@ class Agentstack < Formula
 
   desc ""
   homepage "https://github.com/AgentOps-AI/AgentStack"
-  url "https://files.pythonhosted.org/packages/source/A/AgentStack/AgentStack-0.2.5.1.tar.gz"
-  sha256 "f54ebc271cd021268ce027c909f2c90feea567c8f53a6be9f948a2916520319f"
+  url "https://files.pythonhosted.org/packages/source/A/AgentStack/AgentStack-0.3.0.tar.gz"
+  sha256 "afa7f002215970366b270345b4fa8d1f59abaacc4218d448618b4bd45a833b48"
 
   depends_on "python@3.9"
 
